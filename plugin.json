@@ -1,0 +1,12 @@
+{
+    "name": "AI Ad Copywriter",
+    "slug": "ai-ad-copywriter",
+    "version": "1.1.0",
+    "author": "MrGhozzi",
+    "description": "Generate catchy ad titles and descriptions using Gemini 3 Flash AI.",
+    "thumbnail": "thumbnail.png",
+    "siteweb": "https://github.com/mrghozzi",
+    "latest": "https://github.com/mrghozzi/ai-ad-copywriter/releases/latest",
+    "ADStn_url": "ai-ad-copywriter",
+    "min_myads": "4.3.0"
+}
